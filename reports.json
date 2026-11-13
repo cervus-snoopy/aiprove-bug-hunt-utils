@@ -1,0 +1,8 @@
+[
+  { "fn": "factorial", "input": 5, "expected": 120 },
+  { "fn": "factorial", "input": 2, "expected": 2 },
+  { "fn": "countVowels", "input": "AEIOU", "expected": 5 },
+  { "fn": "countVowels", "input": "HELLO", "expected": 2 },
+  { "fn": "countVowels", "input": "Apple", "expected": 2 },
+  { "fn": "reverse", "input": "😀a", "expected": "a😀" }
+]
